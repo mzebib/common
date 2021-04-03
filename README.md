@@ -1,2 +1,3 @@
 # common
-Common interfaces, classes and utility methods
+
+This project contains common interfaces, classes and utility methods.
