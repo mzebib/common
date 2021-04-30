@@ -15,14 +15,14 @@
     <name>common</name>
     <description>Common utilities and interfaces</description>
     <developers>
-        <developer>
+    	<developer>
             <id>mzebib</id>
             <name>Steve Zebib</name>
-            <email>m.zebib@hotmail.com</email>
+            <email>steve.zebib@gmail.com</email>
             <roles>
                 <role>developer</role>
             </roles>
-            <timezone>America/New_York</timezone>
+            <timezone>America/San_Francisco</timezone>
         </developer>
     </developers>
 
