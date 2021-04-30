@@ -1,3 +1,3 @@
 # common
 
-This project contains common interfaces, classes and utility methods.
+This project contains common Java interfaces, classes and utility methods.
